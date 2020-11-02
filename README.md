@@ -25,10 +25,11 @@
     - Observing the anomaly is still there.  
 
 
-- pattern_anomaly_for_counts.ipynb
+- pattern_anomaly_for_counts.ipynb ****
 
     - LSTM Autoencoder Model 
-    
+ 
+ 
 - pattern_anomaly_RT_BC_grouped.ipynb
     - LSTM Autoencoder Model 
 
